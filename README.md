@@ -6,3 +6,12 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
+Daftar Perintah GiT
+git branch (Tugas- ....)
+git checkout (Tugas- ....)
+git add .
+git status
+git commit -m "(Tugas- .... .txt)"
+git checkout main
+git push origin (Tugas- ....)
